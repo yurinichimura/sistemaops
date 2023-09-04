@@ -4,8 +4,7 @@ Passo 1. Criar um arquivo com extensão .c chamado stderr.c
 ![image](https://github.com/yurinichimura/sistemaops/assets/139904028/d7ddb592-4bf4-4e13-a22f-57b9dd80a647)
 
 Passo 2. Colocar dentro do seu arquivo o código que será rodado e , colocamos o nosso n = 100.
-![image](https://github.com/yurinichimura/sistemaops/assets/139904028/707611c1-71df-407b-9977-87c63acfc010)
-
+![image](https://github.com/yurinichimura/sistemaops/assets/139904028/c6583a61-5f8e-4e54-9dc6-5a4c8b5dc522)
 
 Passo 3. Usando o gcc para fazer a compilação do código e executa-lo
 ![image](https://github.com/yurinichimura/sistemaops/assets/139904028/5004b9d6-50f9-4fd6-8229-7515289baee2)
@@ -23,7 +22,7 @@ Passo 1. Criar um arquivo com extensão .c chamado stdout.c
 ![image](https://github.com/yurinichimura/sistemaops/assets/139904028/b891f6bb-60dc-4258-8d54-a61921470bfd)
 
 Passo 2. Colocar dentro do seu arquivo o código que será rodado e , colocamos o nosso n = 100.
-![image](https://github.com/yurinichimura/sistemaops/assets/139904028/adb42be4-a0e7-4aeb-8c51-0e9d68f1fccd)
+![image](https://github.com/yurinichimura/sistemaops/assets/139904028/31e60fa1-f351-4801-af25-76c0d1fa6b9a)
 
 Passo 3. Usando o gcc para fazer a compilação do código e executa-lo
 ![image](https://github.com/yurinichimura/sistemaops/assets/139904028/fb0dfb75-4a74-4e36-a8c4-aeefb47e33cb)
