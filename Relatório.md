@@ -22,7 +22,7 @@ Passo 1. Criar um arquivo com extensão .c chamado stdout.c
 ![image](https://github.com/yurinichimura/sistemaops/assets/139904028/b891f6bb-60dc-4258-8d54-a61921470bfd)
 
 Passo 2. Colocar dentro do seu arquivo o código que será rodado e , colocamos o nosso n = 100.
-![image](https://github.com/yurinichimura/sistemaops/assets/139904028/31e60fa1-f351-4801-af25-76c0d1fa6b9a)
+![image](https://github.com/yurinichimura/sistemaops/assets/139904028/c75982b3-6c10-4f84-9d3e-3932554cbe7f)
 
 Passo 3. Usando o gcc para fazer a compilação do código e executa-lo
 ![image](https://github.com/yurinichimura/sistemaops/assets/139904028/fb0dfb75-4a74-4e36-a8c4-aeefb47e33cb)
