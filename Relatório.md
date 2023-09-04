@@ -4,7 +4,7 @@ Passo 1. Criar um arquivo com extensão .c chamado stderr.c
 ![image](https://github.com/yurinichimura/sistemaops/assets/139904028/d7ddb592-4bf4-4e13-a22f-57b9dd80a647)
 
 Passo 2. Colocar dentro do seu arquivo o código que será rodado e , colocamos o nosso n = 100.
-![image](https://github.com/yurinichimura/sistemaops/assets/139904028/c6583a61-5f8e-4e54-9dc6-5a4c8b5dc522)
+![image](https://github.com/yurinichimura/sistemaops/assets/139904028/f44110fe-ffe7-486c-b5f7-eb18a5c5cd28)
 
 Passo 3. Usando o gcc para fazer a compilação do código e executa-lo
 ![image](https://github.com/yurinichimura/sistemaops/assets/139904028/5004b9d6-50f9-4fd6-8229-7515289baee2)
