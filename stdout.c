@@ -2,24 +2,18 @@
 #include <stdlib.h>
 #include <unistd.h>
 
-int main() {
+int main (int argc, char *argv[]) {
     pid_t childpid = 0;
-    int i, n = 100; 
-
-    for (i = 1; i < n; i++) {
-        if ((childpid = fork()) == -1) {
-            perror("Erro ao criar um processo filho");
-            return 1;
-        }
-
-            if (childpid == 0) {
-      
-            fprintf(stdout, "i: %d ProcessID: %ld ParentID: %ld ChildID: %ld\n",
-                    i, (long)getpid(), (long)getppid(), (long)childpid);
-            break;
-        }
+    int i, n =100;
+    if (argc != 2){ /* check for valid number of command-line arguments */
+        fprintf(stdout, "Usage: %s processes\n", argv[0]); 
+        return 1;
     }
-
+    n = atoi(argv[1]);
+    for (i = 1; i < n; i++)
+        if (childpid = fork())
+            break;
+    fprintf(stdout, "i:%d process ID:%ld parent ID:%ld child ID:%ld\n",
+        i, (long)getpid(), (long)getppid(), (long)childpid);
     return 0;
-}
-# sistemaops
+        }
